@@ -1,0 +1,28 @@
+D:\Socket Programming for Clients\Socket Programming for Clients\bin\Debug\Socket Programming for Clients.exe.config
+D:\Socket Programming for Clients\Socket Programming for Clients\bin\Debug\Socket Programming for Clients.exe
+D:\Socket Programming for Clients\Socket Programming for Clients\bin\Debug\Socket Programming for Clients.pdb
+D:\Socket Programming for Clients\Socket Programming for Clients\obj\Debug\Socket Programming for Clients.csprojResolveAssemblyReference.cache
+D:\Socket Programming for Clients\Socket Programming for Clients\obj\Debug\Socket_Programming_for_Clients.Form1.resources
+D:\Socket Programming for Clients\Socket Programming for Clients\obj\Debug\Socket_Programming_for_Clients.Properties.Resources.resources
+D:\Socket Programming for Clients\Socket Programming for Clients\obj\Debug\Socket Programming for Clients.csproj.GenerateResource.Cache
+D:\Socket Programming for Clients\Socket Programming for Clients\obj\Debug\Socket Programming for Clients.exe
+D:\Socket Programming for Clients\Socket Programming for Clients\obj\Debug\Socket Programming for Clients.pdb
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Socket Programming for Clients\Socket Programming for Clients\bin\Debug\Socket Programming for Clients.exe.config
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Socket Programming for Clients\Socket Programming for Clients\obj\Debug\Socket Programming for Clients.exe
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Socket Programming for Clients\Socket Programming for Clients\obj\Debug\Socket Programming for Clients.pdb
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Socket Programming for Clients\Socket Programming for Clients\bin\Debug\Socket Programming for Clients.exe
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Socket Programming for Clients\Socket Programming for Clients\bin\Debug\Socket Programming for Clients.pdb
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Socket Programming for Clients\Socket Programming for Clients\obj\Debug\Socket Programming for Clients.csprojResolveAssemblyReference.cache
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Socket Programming for Clients\Socket Programming for Clients\obj\Debug\Socket_Programming_for_Clients.Form1.resources
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Socket Programming for Clients\Socket Programming for Clients\obj\Debug\Socket_Programming_for_Clients.Properties.Resources.resources
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Socket Programming for Clients\Socket Programming for Clients\obj\Debug\Socket Programming for Clients.csproj.GenerateResource.Cache
+E:\Slash Global\Socket Programming for Clients\Socket Programming for Clients\bin\Debug\Socket Programming for Clients.exe.config
+E:\Slash Global\Socket Programming for Clients\Socket Programming for Clients\bin\Debug\Socket Programming for Clients.exe
+E:\Slash Global\Socket Programming for Clients\Socket Programming for Clients\bin\Debug\Socket Programming for Clients.pdb
+E:\Slash Global\Socket Programming for Clients\Socket Programming for Clients\obj\Debug\Socket Programming for Clients.csprojAssemblyReference.cache
+E:\Slash Global\Socket Programming for Clients\Socket Programming for Clients\obj\Debug\Socket_Programming_for_Clients.Form1.resources
+E:\Slash Global\Socket Programming for Clients\Socket Programming for Clients\obj\Debug\Socket_Programming_for_Clients.Properties.Resources.resources
+E:\Slash Global\Socket Programming for Clients\Socket Programming for Clients\obj\Debug\Socket Programming for Clients.csproj.GenerateResource.cache
+E:\Slash Global\Socket Programming for Clients\Socket Programming for Clients\obj\Debug\Socket Programming for Clients.csproj.CoreCompileInputs.cache
+E:\Slash Global\Socket Programming for Clients\Socket Programming for Clients\obj\Debug\Socket Programming for Clients.exe
+E:\Slash Global\Socket Programming for Clients\Socket Programming for Clients\obj\Debug\Socket Programming for Clients.pdb

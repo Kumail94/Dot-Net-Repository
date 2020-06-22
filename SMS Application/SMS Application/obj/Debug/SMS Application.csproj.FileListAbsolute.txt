@@ -1,0 +1,18 @@
+C:\Users\SGI\Desktop\SMS Application\SMS Application\bin\Debug\SMS Application.exe.config
+C:\Users\SGI\Desktop\SMS Application\SMS Application\bin\Debug\SMS Application.exe
+C:\Users\SGI\Desktop\SMS Application\SMS Application\bin\Debug\SMS Application.pdb
+C:\Users\SGI\Desktop\SMS Application\SMS Application\obj\Debug\SMS Application.csprojResolveAssemblyReference.cache
+C:\Users\SGI\Desktop\SMS Application\SMS Application\obj\Debug\SMS_Application.Form1.resources
+C:\Users\SGI\Desktop\SMS Application\SMS Application\obj\Debug\SMS_Application.Properties.Resources.resources
+C:\Users\SGI\Desktop\SMS Application\SMS Application\obj\Debug\SMS Application.csproj.GenerateResource.Cache
+C:\Users\SGI\Desktop\SMS Application\SMS Application\obj\Debug\SMS Application.exe
+C:\Users\SGI\Desktop\SMS Application\SMS Application\obj\Debug\SMS Application.pdb
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\SMS Application\SMS Application\bin\Debug\SMS Application.exe.config
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\SMS Application\SMS Application\obj\Debug\SMS Application.exe
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\SMS Application\SMS Application\obj\Debug\SMS Application.pdb
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\SMS Application\SMS Application\bin\Debug\SMS Application.exe
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\SMS Application\SMS Application\bin\Debug\SMS Application.pdb
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\SMS Application\SMS Application\obj\Debug\SMS Application.csprojResolveAssemblyReference.cache
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\SMS Application\SMS Application\obj\Debug\SMS_Application.Form1.resources
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\SMS Application\SMS Application\obj\Debug\SMS_Application.Properties.Resources.resources
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\SMS Application\SMS Application\obj\Debug\SMS Application.csproj.GenerateResource.Cache

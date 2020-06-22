@@ -1,0 +1,22 @@
+C:\Users\SGI\Desktop\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe.config
+C:\Users\SGI\Desktop\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe
+C:\Users\SGI\Desktop\Digital Clock\Digital Clock\bin\Debug\Digital Clock.pdb
+C:\Users\SGI\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csprojResolveAssemblyReference.cache
+C:\Users\SGI\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Form1.resources
+C:\Users\SGI\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Properties.Resources.resources
+C:\Users\SGI\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.GenerateResource.Cache
+C:\Users\SGI\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital Clock.exe
+C:\Users\SGI\Desktop\Digital Clock\Digital Clock\obj\Debug\Digital Clock.pdb
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe.config
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Digital Clock\Digital Clock\obj\Debug\Digital Clock.exe
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Digital Clock\Digital Clock\obj\Debug\Digital Clock.pdb
+E:\Slash Global\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe.config
+E:\Slash Global\Digital Clock\Digital Clock\bin\Debug\Digital Clock.exe
+E:\Slash Global\Digital Clock\Digital Clock\bin\Debug\Digital Clock.pdb
+E:\Slash Global\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csprojAssemblyReference.cache
+E:\Slash Global\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Form1.resources
+E:\Slash Global\Digital Clock\Digital Clock\obj\Debug\Digital_Clock.Properties.Resources.resources
+E:\Slash Global\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.GenerateResource.cache
+E:\Slash Global\Digital Clock\Digital Clock\obj\Debug\Digital Clock.csproj.CoreCompileInputs.cache
+E:\Slash Global\Digital Clock\Digital Clock\obj\Debug\Digital Clock.exe
+E:\Slash Global\Digital Clock\Digital Clock\obj\Debug\Digital Clock.pdb

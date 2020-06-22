@@ -1,0 +1,1 @@
+https://docs.bmc.com/docs/digitalworkplacebas/33/installing-and-setting-up-mongodb-on-windows-655602859.html?scroll-versions:version-name=3.3

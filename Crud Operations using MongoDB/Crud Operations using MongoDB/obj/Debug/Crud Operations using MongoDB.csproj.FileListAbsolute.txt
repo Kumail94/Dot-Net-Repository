@@ -1,0 +1,46 @@
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\Crud Operations using MongoDB.exe.config
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\Crud Operations using MongoDB.exe
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\Crud Operations using MongoDB.pdb
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\DnsClient.dll
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\MongoDB.Bson.dll
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\MongoDB.Driver.dll
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\System.Buffers.dll
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\DnsClient.xml
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\MongoDB.Bson.xml
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\MongoDB.Driver.xml
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\obj\Debug\Crud Operations using MongoDB.csprojResolveAssemblyReference.cache
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\obj\Debug\Crud_Operations_using_MongoDB.MongoDB.resources
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\obj\Debug\Crud_Operations_using_MongoDB.Properties.Resources.resources
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\obj\Debug\Crud Operations using MongoDB.csproj.GenerateResource.Cache
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\obj\Debug\RdlCompile.cache
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\obj\Debug\RdlCompile.compiled
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\obj\Debug\Crud Operations using MongoDB.exe
+C:\Users\SGI\Desktop\Crud Operations using MongoDB\Crud Operations using MongoDB\obj\Debug\Crud Operations using MongoDB.pdb
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\Crud Operations using MongoDB.exe.config
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\Crud Operations using MongoDB.exe
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\Crud Operations using MongoDB.pdb
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\DnsClient.dll
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\MongoDB.Bson.dll
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\MongoDB.Driver.Core.dll
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\MongoDB.Driver.dll
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\System.Buffers.dll
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\DnsClient.xml
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\MongoDB.Bson.xml
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\MongoDB.Driver.xml
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\MongoDB.Driver.Core.xml
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\obj\Debug\Crud Operations using MongoDB.csprojAssemblyReference.cache
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\obj\Debug\Crud_Operations_using_MongoDB.MongoDB.resources
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\obj\Debug\Crud_Operations_using_MongoDB.Properties.Resources.resources
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\obj\Debug\Crud_Operations_using_MongoDB.ReportForm.resources
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\obj\Debug\Crud Operations using MongoDB.csproj.GenerateResource.cache
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\obj\Debug\Crud Operations using MongoDB.csproj.CoreCompileInputs.cache
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\obj\Debug\Crud Operations using MongoDB.csproj.CopyComplete
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\obj\Debug\Crud Operations using MongoDB.exe
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\obj\Debug\Crud Operations using MongoDB.pdb
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\Crud Operations using MongoDB\Crud Operations using MongoDB\bin\Debug\Microsoft.ReportViewer.WebForms.DLL

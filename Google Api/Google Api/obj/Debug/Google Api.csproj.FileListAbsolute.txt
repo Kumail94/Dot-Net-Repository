@@ -1,0 +1,41 @@
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\obj\Debug\Google_Api.Form1.resources
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\obj\Debug\Google_Api.Properties.Resources.resources
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\obj\Debug\Google Api.csproj.GenerateResource.Cache
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\Google Api.exe.config
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\Google Api.exe
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\Google Api.pdb
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\DnsClient.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\EntityFramework.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\GMap.NET.Core.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\Google.Apis.Core.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\Google.Apis.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\GoogleApi.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\MongoDB.Bson.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\MongoDB.Driver.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\System.Buffers.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\System.Data.SQLite.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\DnsClient.xml
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\EntityFramework.xml
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\Google.Apis.pdb
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\Google.Apis.xml
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\Google.Apis.Core.pdb
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\Google.Apis.Core.xml
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\GoogleApi.xml
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\MongoDB.Bson.xml
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\MongoDB.Driver.xml
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\bin\Debug\System.Data.SQLite.xml
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\obj\Debug\Google Api.exe
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Google Api\Google Api\obj\Debug\Google Api.pdb

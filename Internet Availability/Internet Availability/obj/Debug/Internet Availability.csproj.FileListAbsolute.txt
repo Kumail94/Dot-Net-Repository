@@ -1,0 +1,21 @@
+C:\Users\SGI\Desktop\Internet Availability\Internet Availability\obj\Debug\Internet_Availability.Internet_Availabilty.resources
+C:\Users\SGI\Desktop\Internet Availability\Internet Availability\obj\Debug\Internet_Availability.Properties.Resources.resources
+C:\Users\SGI\Desktop\Internet Availability\Internet Availability\obj\Debug\Internet Availability.csproj.GenerateResource.Cache
+C:\Users\SGI\Desktop\Internet Availability\Internet Availability\bin\Debug\Internet Availability.exe.config
+C:\Users\SGI\Desktop\Internet Availability\Internet Availability\bin\Debug\Internet Availability.exe
+C:\Users\SGI\Desktop\Internet Availability\Internet Availability\bin\Debug\Internet Availability.pdb
+C:\Users\SGI\Desktop\Internet Availability\Internet Availability\obj\Debug\Internet Availability.exe
+C:\Users\SGI\Desktop\Internet Availability\Internet Availability\obj\Debug\Internet Availability.pdb
+C:\Users\SGI\Desktop\Internet Availability\Internet Availability\obj\Debug\Internet Availability.csprojResolveAssemblyReference.cache
+E:\Internet Availability\Internet Availability\bin\Debug\Internet Availability.exe.config
+E:\Internet Availability\Internet Availability\obj\Debug\Internet Availability.exe
+E:\Internet Availability\Internet Availability\obj\Debug\Internet Availability.pdb
+C:\Users\SlashGlobal\Desktop\My Programs\Internet Availability\Internet Availability\bin\Debug\Internet Availability.exe.config
+C:\Users\SlashGlobal\Desktop\My Programs\Internet Availability\Internet Availability\obj\Debug\Internet Availability.exe
+C:\Users\SlashGlobal\Desktop\My Programs\Internet Availability\Internet Availability\obj\Debug\Internet Availability.pdb
+C:\Users\SlashGlobal\Desktop\My Programs\Internet Availability\Internet Availability\obj\Debug\Internet Availability.csprojResolveAssemblyReference.cache
+C:\Users\SlashGlobal\Desktop\My Programs\Internet Availability\Internet Availability\obj\Debug\Internet_Availability.Internet_Availabilty.resources
+C:\Users\SlashGlobal\Desktop\My Programs\Internet Availability\Internet Availability\obj\Debug\Internet_Availability.Properties.Resources.resources
+C:\Users\SlashGlobal\Desktop\My Programs\Internet Availability\Internet Availability\obj\Debug\Internet Availability.csproj.GenerateResource.Cache
+C:\Users\SlashGlobal\Desktop\My Programs\Internet Availability\Internet Availability\bin\Debug\Internet Availability.exe
+C:\Users\SlashGlobal\Desktop\My Programs\Internet Availability\Internet Availability\bin\Debug\Internet Availability.pdb

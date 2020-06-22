@@ -1,0 +1,22 @@
+C:\Users\SGI\Desktop\Google Map\Google Map\bin\Debug\Google Map.exe.config
+C:\Users\SGI\Desktop\Google Map\Google Map\obj\Debug\Google Map.csprojResolveAssemblyReference.cache
+C:\Users\SGI\Desktop\Google Map\Google Map\obj\Debug\Google_Map.GoogleMap.resources
+C:\Users\SGI\Desktop\Google Map\Google Map\obj\Debug\Google_Map.Properties.Resources.resources
+C:\Users\SGI\Desktop\Google Map\Google Map\obj\Debug\Google Map.csproj.GenerateResource.Cache
+C:\Users\SGI\Desktop\Google Map\Google Map\bin\Debug\Google Map.exe
+C:\Users\SGI\Desktop\Google Map\Google Map\bin\Debug\Google Map.pdb
+C:\Users\SGI\Desktop\Google Map\Google Map\bin\Debug\EntityFramework.dll
+C:\Users\SGI\Desktop\Google Map\Google Map\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SGI\Desktop\Google Map\Google Map\bin\Debug\GMap.NET.Core.dll
+C:\Users\SGI\Desktop\Google Map\Google Map\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\SGI\Desktop\Google Map\Google Map\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\SGI\Desktop\Google Map\Google Map\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SGI\Desktop\Google Map\Google Map\bin\Debug\System.Data.SQLite.dll
+C:\Users\SGI\Desktop\Google Map\Google Map\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\SGI\Desktop\Google Map\Google Map\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\SGI\Desktop\Google Map\Google Map\bin\Debug\EntityFramework.xml
+C:\Users\SGI\Desktop\Google Map\Google Map\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SGI\Desktop\Google Map\Google Map\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SGI\Desktop\Google Map\Google Map\bin\Debug\System.Data.SQLite.xml
+C:\Users\SGI\Desktop\Google Map\Google Map\obj\Debug\Google Map.exe
+C:\Users\SGI\Desktop\Google Map\Google Map\obj\Debug\Google Map.pdb

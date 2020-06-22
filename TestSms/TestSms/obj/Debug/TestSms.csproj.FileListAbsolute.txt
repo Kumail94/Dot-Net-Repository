@@ -1,0 +1,10 @@
+c:\users\sgi\documents\visual studio 2013\Projects\TestSms\TestSms\bin\Debug\TestSms.exe.config
+c:\users\sgi\documents\visual studio 2013\Projects\TestSms\TestSms\obj\Debug\TestSms.csprojResolveAssemblyReference.cache
+c:\users\sgi\documents\visual studio 2013\Projects\TestSms\TestSms\obj\Debug\TestSms.ValidationForm.resources
+c:\users\sgi\documents\visual studio 2013\Projects\TestSms\TestSms\obj\Debug\TestSms.Properties.Resources.resources
+c:\users\sgi\documents\visual studio 2013\Projects\TestSms\TestSms\obj\Debug\TestSms.csproj.GenerateResource.Cache
+c:\users\sgi\documents\visual studio 2013\Projects\TestSms\TestSms\bin\Debug\TestSms.exe
+c:\users\sgi\documents\visual studio 2013\Projects\TestSms\TestSms\bin\Debug\TestSms.pdb
+c:\users\sgi\documents\visual studio 2013\Projects\TestSms\TestSms\obj\Debug\TestSms.exe
+c:\users\sgi\documents\visual studio 2013\Projects\TestSms\TestSms\obj\Debug\TestSms.pdb
+c:\users\sgi\documents\visual studio 2013\Projects\TestSms\TestSms\obj\Debug\TestSms.SmsSendingForm.resources

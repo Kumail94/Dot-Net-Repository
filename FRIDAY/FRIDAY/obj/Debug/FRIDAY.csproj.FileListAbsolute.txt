@@ -1,0 +1,88 @@
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\obj\Debug\FRIDAY.csprojResolveAssemblyReference.cache
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\obj\Debug\FRIDAY.PDF.resources
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\obj\Debug\FRIDAY.Properties.Resources.resources
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\obj\Debug\FRIDAY.csproj.GenerateResource.Cache
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\bin\Debug\FRIDAY.exe.config
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\bin\Debug\FRIDAY.exe
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\bin\Debug\FRIDAY.pdb
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\bin\Debug\DnsClient.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\bin\Debug\itextsharp.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\bin\Debug\MongoDB.Bson.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\bin\Debug\MongoDB.Driver.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\bin\Debug\System.Buffers.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\bin\Debug\DnsClient.xml
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\bin\Debug\itextsharp.xml
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\bin\Debug\MongoDB.Bson.xml
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\bin\Debug\MongoDB.Driver.xml
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\obj\Debug\FRIDAY.exe
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\FRIDAY\FRIDAY\obj\Debug\FRIDAY.pdb
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\bin\Debug\FRIDAY.exe.config
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\obj\Debug\FRIDAY.exe
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\obj\Debug\FRIDAY.pdb
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\bin\Debug\FRIDAY.exe
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\bin\Debug\FRIDAY.pdb
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\bin\Debug\DnsClient.dll
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\bin\Debug\itextsharp.dll
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\bin\Debug\MongoDB.Bson.dll
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\bin\Debug\MongoDB.Driver.dll
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\bin\Debug\System.Buffers.dll
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\bin\Debug\DnsClient.xml
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\bin\Debug\itextsharp.xml
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\bin\Debug\MongoDB.Bson.xml
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\bin\Debug\MongoDB.Driver.xml
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\obj\Debug\FRIDAY.PDF.resources
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\obj\Debug\FRIDAY.Properties.Resources.resources
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\obj\Debug\FRIDAY.csproj.GenerateResource.Cache
+C:\Users\SlashGlobal\Desktop\My Programs\FRIDAY\FRIDAY\obj\Debug\FRIDAY.csprojResolveAssemblyReference.cache
+E:\FRIDAY\FRIDAY\bin\Debug\FRIDAY.exe.config
+E:\FRIDAY\FRIDAY\bin\Debug\FRIDAY.exe
+E:\FRIDAY\FRIDAY\bin\Debug\FRIDAY.pdb
+E:\FRIDAY\FRIDAY\bin\Debug\DnsClient.dll
+E:\FRIDAY\FRIDAY\bin\Debug\itextsharp.dll
+E:\FRIDAY\FRIDAY\bin\Debug\MongoDB.Bson.dll
+E:\FRIDAY\FRIDAY\bin\Debug\MongoDB.Driver.Core.dll
+E:\FRIDAY\FRIDAY\bin\Debug\MongoDB.Driver.dll
+E:\FRIDAY\FRIDAY\bin\Debug\System.Buffers.dll
+E:\FRIDAY\FRIDAY\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\FRIDAY\FRIDAY\bin\Debug\DnsClient.xml
+E:\FRIDAY\FRIDAY\bin\Debug\itextsharp.xml
+E:\FRIDAY\FRIDAY\bin\Debug\MongoDB.Bson.xml
+E:\FRIDAY\FRIDAY\bin\Debug\MongoDB.Driver.xml
+E:\FRIDAY\FRIDAY\bin\Debug\MongoDB.Driver.Core.xml
+E:\FRIDAY\FRIDAY\obj\Debug\FRIDAY.csprojAssemblyReference.cache
+E:\FRIDAY\FRIDAY\obj\Debug\FRIDAY.PDF.resources
+E:\FRIDAY\FRIDAY\obj\Debug\FRIDAY.Properties.Resources.resources
+E:\FRIDAY\FRIDAY\obj\Debug\FRIDAY.csproj.GenerateResource.cache
+E:\FRIDAY\FRIDAY\obj\Debug\FRIDAY.csproj.CoreCompileInputs.cache
+E:\FRIDAY\FRIDAY\obj\Debug\FRIDAY.csproj.CopyComplete
+E:\FRIDAY\FRIDAY\obj\Debug\FRIDAY.exe
+E:\FRIDAY\FRIDAY\obj\Debug\FRIDAY.pdb
+E:\data\Slash Global\FRIDAY\FRIDAY\bin\Debug\FRIDAY.exe.config
+E:\data\Slash Global\FRIDAY\FRIDAY\bin\Debug\FRIDAY.exe
+E:\data\Slash Global\FRIDAY\FRIDAY\bin\Debug\FRIDAY.pdb
+E:\data\Slash Global\FRIDAY\FRIDAY\bin\Debug\DnsClient.dll
+E:\data\Slash Global\FRIDAY\FRIDAY\bin\Debug\itextsharp.dll
+E:\data\Slash Global\FRIDAY\FRIDAY\bin\Debug\MongoDB.Bson.dll
+E:\data\Slash Global\FRIDAY\FRIDAY\bin\Debug\MongoDB.Driver.Core.dll
+E:\data\Slash Global\FRIDAY\FRIDAY\bin\Debug\MongoDB.Driver.dll
+E:\data\Slash Global\FRIDAY\FRIDAY\bin\Debug\System.Buffers.dll
+E:\data\Slash Global\FRIDAY\FRIDAY\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\data\Slash Global\FRIDAY\FRIDAY\bin\Debug\DnsClient.xml
+E:\data\Slash Global\FRIDAY\FRIDAY\bin\Debug\itextsharp.xml
+E:\data\Slash Global\FRIDAY\FRIDAY\bin\Debug\MongoDB.Bson.xml
+E:\data\Slash Global\FRIDAY\FRIDAY\bin\Debug\MongoDB.Driver.xml
+E:\data\Slash Global\FRIDAY\FRIDAY\bin\Debug\MongoDB.Driver.Core.xml
+E:\data\Slash Global\FRIDAY\FRIDAY\obj\Debug\FRIDAY.csprojAssemblyReference.cache
+E:\data\Slash Global\FRIDAY\FRIDAY\obj\Debug\FRIDAY.PDF.resources
+E:\data\Slash Global\FRIDAY\FRIDAY\obj\Debug\FRIDAY.Properties.Resources.resources
+E:\data\Slash Global\FRIDAY\FRIDAY\obj\Debug\FRIDAY.csproj.GenerateResource.cache
+E:\data\Slash Global\FRIDAY\FRIDAY\obj\Debug\FRIDAY.csproj.CoreCompileInputs.cache
+E:\data\Slash Global\FRIDAY\FRIDAY\obj\Debug\FRIDAY.csproj.CopyComplete
+E:\data\Slash Global\FRIDAY\FRIDAY\obj\Debug\FRIDAY.exe
+E:\data\Slash Global\FRIDAY\FRIDAY\obj\Debug\FRIDAY.pdb

@@ -1,0 +1,19 @@
+D:\SocketProgrammingServer\SocketProgrammingServer\bin\Debug\SocketProgrammingServer.exe.config
+D:\SocketProgrammingServer\SocketProgrammingServer\bin\Debug\SocketProgrammingServer.exe
+D:\SocketProgrammingServer\SocketProgrammingServer\bin\Debug\SocketProgrammingServer.pdb
+D:\SocketProgrammingServer\SocketProgrammingServer\obj\Debug\SocketProgrammingServer.csprojResolveAssemblyReference.cache
+D:\SocketProgrammingServer\SocketProgrammingServer\obj\Debug\SocketProgrammingServer.exe
+D:\SocketProgrammingServer\SocketProgrammingServer\obj\Debug\SocketProgrammingServer.pdb
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\SocketProgrammingServer\SocketProgrammingServer\bin\Debug\SocketProgrammingServer.exe.config
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\SocketProgrammingServer\SocketProgrammingServer\obj\Debug\SocketProgrammingServer.exe
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\SocketProgrammingServer\SocketProgrammingServer\obj\Debug\SocketProgrammingServer.pdb
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\SocketProgrammingServer\SocketProgrammingServer\bin\Debug\SocketProgrammingServer.exe
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\SocketProgrammingServer\SocketProgrammingServer\bin\Debug\SocketProgrammingServer.pdb
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\SocketProgrammingServer\SocketProgrammingServer\obj\Debug\SocketProgrammingServer.csprojResolveAssemblyReference.cache
+E:\Slash Global\SocketProgrammingServer\SocketProgrammingServer\bin\Debug\SocketProgrammingServer.exe.config
+E:\Slash Global\SocketProgrammingServer\SocketProgrammingServer\bin\Debug\SocketProgrammingServer.exe
+E:\Slash Global\SocketProgrammingServer\SocketProgrammingServer\bin\Debug\SocketProgrammingServer.pdb
+E:\Slash Global\SocketProgrammingServer\SocketProgrammingServer\obj\Debug\SocketProgrammingServer.csprojAssemblyReference.cache
+E:\Slash Global\SocketProgrammingServer\SocketProgrammingServer\obj\Debug\SocketProgrammingServer.csproj.CoreCompileInputs.cache
+E:\Slash Global\SocketProgrammingServer\SocketProgrammingServer\obj\Debug\SocketProgrammingServer.exe
+E:\Slash Global\SocketProgrammingServer\SocketProgrammingServer\obj\Debug\SocketProgrammingServer.pdb

@@ -1,0 +1,22 @@
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\obj\Debug\Data_Despatch_Report.DataReported.resources
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\obj\Debug\Data_Despatch_Report.Despatch.resources
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\obj\Debug\Data_Despatch_Report.Properties.Resources.resources
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\obj\Debug\Data Despatch Report.csproj.GenerateResource.Cache
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\obj\Debug\RdlCompile.cache
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\obj\Debug\RdlCompile.compiled
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\bin\Debug\Data Despatch Report.exe.config
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\bin\Debug\Data Despatch Report.exe
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\bin\Debug\Data Despatch Report.pdb
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\bin\Debug\DnsClient.dll
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\bin\Debug\MongoDB.Bson.dll
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\bin\Debug\MongoDB.Driver.dll
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\bin\Debug\System.Buffers.dll
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\bin\Debug\DnsClient.xml
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\bin\Debug\MongoDB.Bson.xml
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\bin\Debug\MongoDB.Driver.xml
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\obj\Debug\Data Despatch Report.exe
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\obj\Debug\Data Despatch Report.pdb
+C:\Users\SGI\Desktop\Data Despatch Report\Data Despatch Report\obj\Debug\Data Despatch Report.csprojResolveAssemblyReference.cache

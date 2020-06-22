@@ -1,0 +1,11 @@
+
+
+https://stackoverflow.com/questions/25928948/get-lat-lang-from-a-place-id-returned-by-autocomplete-place-api
+
+
+
+https://www.newtonsoft.com/json/help/html/QueryJsonSelectToken.htm
+
+
+
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJv0sdZQY-sz4RIwxaVUQv-Zw&key=AIzaSyBoo725a96P7rTXXpGEd-jdX_7zvYCal94

@@ -1,0 +1,21 @@
+C:\Users\SlashGlobal\Desktop\My Programs\Internet Availability\Internet Availability\bin\Release\Internet Availability.exe.config
+F:\Internet Availability\Internet Availability\bin\Release\Internet Availability.exe.config
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Internet Availability\Internet Availability\bin\Release\Internet Availability.exe.config
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Internet Availability\Internet Availability\bin\Release\Internet Availability.exe
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Internet Availability\Internet Availability\bin\Release\Internet Availability.pdb
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Internet Availability\Internet Availability\obj\Release\Internet Availability.csprojResolveAssemblyReference.cache
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Internet Availability\Internet Availability\obj\Release\Internet_Availability.Internet_Availabilty.resources
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Internet Availability\Internet Availability\obj\Release\Internet_Availability.Properties.Resources.resources
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Internet Availability\Internet Availability\obj\Release\Internet Availability.csproj.GenerateResource.Cache
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Internet Availability\Internet Availability\obj\Release\Internet Availability.exe
+C:\Users\SGI\Documents\Visual Studio 2013\Projects\Internet Availability\Internet Availability\obj\Release\Internet Availability.pdb
+E:\data\Slash Global\Internet Availability\Internet Availability\bin\Release\Internet Availability.exe.config
+E:\data\Slash Global\Internet Availability\Internet Availability\bin\Release\Internet Availability.exe
+E:\data\Slash Global\Internet Availability\Internet Availability\bin\Release\Internet Availability.pdb
+E:\data\Slash Global\Internet Availability\Internet Availability\obj\Release\Internet Availability.csprojAssemblyReference.cache
+E:\data\Slash Global\Internet Availability\Internet Availability\obj\Release\Internet_Availability.Internet_Availabilty.resources
+E:\data\Slash Global\Internet Availability\Internet Availability\obj\Release\Internet_Availability.Properties.Resources.resources
+E:\data\Slash Global\Internet Availability\Internet Availability\obj\Release\Internet Availability.csproj.GenerateResource.cache
+E:\data\Slash Global\Internet Availability\Internet Availability\obj\Release\Internet Availability.csproj.CoreCompileInputs.cache
+E:\data\Slash Global\Internet Availability\Internet Availability\obj\Release\Internet Availability.exe
+E:\data\Slash Global\Internet Availability\Internet Availability\obj\Release\Internet Availability.pdb
